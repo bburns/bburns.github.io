@@ -16,9 +16,7 @@ https://github.com/bburns/PyVoyager
 
 ## About Me
 
-I'm a developer interested in machine learning, Python, and React. 
+I'm a developer interested in machine learning, Python, physics, and React. 
 
-## Contact
-
-bburns.km@gmail.com  
+Brian Burns <bburns.km@gmail.com>  
 https://github.com/bburns
