@@ -20,5 +20,5 @@ I'm a developer interested in machine learning, Python, and React.
 
 ## Contact
 
-bburns.km@gmail.com
+bburns.km@gmail.com  
 https://github.com/bburns
