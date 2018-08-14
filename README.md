@@ -14,6 +14,8 @@ Currently I'm working on moveto.io with a small team.
 
 A map-based neighborhood and investment guide
 
+![moveto](./moveto.jpg)
+
 <https://moveto.io>
 
 ### PyVoyager
