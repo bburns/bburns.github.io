@@ -3,6 +3,8 @@
 
 ## About Me
 
+![me](./img/me.jpg)
+
 Hello! I'm a developer interested in machine learning, Python, physics, and React. 
 
 Currently I'm working on moveto.io with a small team.
