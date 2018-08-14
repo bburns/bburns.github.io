@@ -3,14 +3,14 @@
 
 ## About Me
 
-Hello! I'm a developer interested in machine learning, Python, physics, and React. 
+Hello! I'm a developer interested in machine learning, Python, physics, and React. I'm currently working on moveto.io with a small team.
 
 
 ## Projects
 
 ### moveto.io
 
-A map-based neighborhood and investment guide (in progress)
+A map-based neighborhood and investment guide
 
 <https://moveto.io>
 
@@ -21,7 +21,7 @@ Semi-automated construction of movies from the 70k+ images sent back from the Vo
 <https://github.com/bburns/PyVoyager>
 
 
-## Links
+## Contact
 
 * Brian Burns <<bburns.km@gmail.com>>  
 * <https://github.com/bburns>
