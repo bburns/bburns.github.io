@@ -25,7 +25,7 @@ Semi-automated construction of movies from the 70k+ images sent back from the Vo
 
 ## Contact
 
-* Brian Burns <bburns.km@gmail.com>
+* <bburns.km@gmail.com>
 * <https://github.com/bburns>
 * <http://www.linkedin.com/in/bburnskm>
 * <https://twitter.com/bburnskm>
