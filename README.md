@@ -14,13 +14,15 @@ Currently I'm working on moveto.io with a small team.
 
 A map-based neighborhood and investment guide
 
-![moveto](./moveto.jpg)
+![moveto](./img/moveto.jpg)
 
 <https://moveto.io>
 
 ### PyVoyager
 
 Semi-automated construction of movies from the 70k+ images sent back from the Voyager probes
+
+![pyvoyager](./img/pyvoyager.jpg)
 
 <https://github.com/bburns/PyVoyager>
 
