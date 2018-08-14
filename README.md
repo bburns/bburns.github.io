@@ -3,7 +3,9 @@
 
 ## About Me
 
-Hello! I'm a developer interested in machine learning, Python, physics, and React. I'm currently working on moveto.io with a small team.
+Hello! I'm a developer interested in machine learning, Python, physics, and React. 
+
+Currently I'm working on moveto.io with a small team.
 
 
 ## Projects
